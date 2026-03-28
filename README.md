@@ -27,9 +27,9 @@ pip3 install -r requirements.txt
 
 ## Usage
 
-```python3 tiktokOSINT.py --username USERNAMEHERE --downloadProfilePic```
+```python3 tiktokOSINT.py --nexusd4rk --downloadProfilePic```
 
-- Replace `USERNAMEHERE` with the username, the @ in the username is optional.
+- Replace `Nexusd4rk` with the username, the @ in the username is optional.
 
 - `--downloadProfilePic` tells the tool to download the profile picture. 
 This argument is optional.
